@@ -1,22 +1,19 @@
-<div align="center">
+<h1 align="center">Hi, I'm fufu. 👋</h1>
 
-### Hi, I'm fufu.
-
-A Computer Science undergraduate, learning about **Computer Vision**.
-
-</div>
+<p align="center">
+  A Computer Science undergraduate learning about <b>Computer Vision</b>.
+</p>
 
 ---
 
 ### 💻 Terminal is Home
 
-```zsh
-❯ cat ~/.fufu_profile
-workflow="Strictly terminal-centric, strictly Neovim."
-goals="Aiming to engage in deeply interesting work and create meaningful projects."
-contact="Fufu142857@gmail.com"
-dotfiles="[github.com/Fufu142857/dotfiles](https://github.com/Fufu142857/dotfiles)"
-```
+> [!TIP]
+> **❯ cat ~/.fufu_profile**
+> - **Workflow:** "Strictly terminal-centric, strictly Neovim."
+> - **Goals:** "2028 Fall PhD application in the US."
+> - **Contact:** [Fufu142857@gmail.com](mailto:Fufu142857@gmail.com)
+> - **Dotfiles:** [github.com/Fufu142857/dotfiles](https://github.com/Fufu142857/dotfiles)
 
 ### 🛠 Tech Stack
 
@@ -31,7 +28,7 @@ dotfiles="[github.com/Fufu142857/dotfiles](https://github.com/Fufu142857/dotfile
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fufu142857&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=cccccc&icon_color=ffffff&count_private=true" height="165" alt="fufu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fufu142857&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=cccccc&count_private=true" height="165" alt="Top Langs" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fufu142857&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&count_private=true" height="165" alt="fufu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fufu142857&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&count_private=true" height="165" alt="Top Langs" />
+</p>
