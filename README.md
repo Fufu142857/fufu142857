@@ -4,7 +4,6 @@
   A Computer Science undergraduate learning about <b>Computer Vision</b>.
 </p>
 
----
 
 ### 💻 Terminal is Home
 
