@@ -1,12 +1,36 @@
-### Hi there 👋, I'm fufu
+<div align="center">
 
-A Computer Science undergraduate, focusing on Computer Vision and Deep Learning.
+### Hi, I'm fufu.
 
-**Terminal is Home**
-- 💻 **Workflow:** Strictly terminal-centric, strictly Neovim. Check out my [dotfiles](https://github.com/Fufu142857/dotfiles).
-- 🎯 **Goals:** Aiming to engage in deeply interesting work and create meaningful projects.
-- 📫 **Contact:** Fufu142857@gmail.com
+A Computer Science undergraduate learning **Computer Vision**.
 
-**GitHub Stats**
-![fufu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fufu142857&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fufu142857&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc)
+</div>
+
+---
+
+### 💻 Terminal is Home
+
+```zsh
+❯ cat ~/.fufu_profile
+workflow="Strictly terminal-centric, strictly Neovim."
+goals="Aiming to engage in deeply interesting work and create meaningful projects."
+contact="Fufu142857@gmail.com"
+dotfiles="[github.com/Fufu142857/dotfiles](https://github.com/Fufu142857/dotfiles)"
+```
+
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=Neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+</p>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fufu142857&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&v=1&cache_seconds=86400" height="165" alt="fufu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fufu142857&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&v=1&cache_seconds=86400" height="165" alt="Top Langs" />
+</div>
