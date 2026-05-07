@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm fufu. 👋</h1>
+<h1 align="center">Hi, I'm fufu.</h1>
 
 <p align="center">
   A Computer Science undergraduate learning about <b>Computer Vision</b>.
@@ -10,7 +10,7 @@
 > [!TIP]
 > **❯ cat ~/.fufu_profile**
 > - **Workflow:** "Strictly terminal-centric, strictly Neovim."
-> - **Goals:** "2028 Fall PhD application in the US."
+> - **Goals:** "Aiming to engage in deeply interesting work and create meaningful projects."
 > - **Contact:** [Fufu142857@gmail.com](mailto:Fufu142857@gmail.com)
 > - **Dotfiles:** [github.com/Fufu142857/dotfiles](https://github.com/Fufu142857/dotfiles)
 
