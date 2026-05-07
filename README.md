@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm fufu.
+### Hi, I'm fufu.
 
 A Computer Science undergraduate, learning about **Computer Vision**.
 
