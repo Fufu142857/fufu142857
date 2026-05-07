@@ -1,8 +1,8 @@
 <div align="center">
 
-### Hi, I'm fufu.
+## Hi, I'm fufu.
 
-A Computer Science undergraduate learning **Computer Vision**.
+A Computer Science undergraduate, learning about **Computer Vision**.
 
 </div>
 
@@ -23,14 +23,15 @@ dotfiles="[github.com/Fufu142857/dotfiles](https://github.com/Fufu142857/dotfile
 <p>
   <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=Neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white" alt="Unix" />
 </p>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fufu142857&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&v=1&cache_seconds=86400" height="165" alt="fufu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fufu142857&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&v=1&cache_seconds=86400" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fufu142857&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=cccccc&icon_color=ffffff&count_private=true" height="165" alt="fufu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fufu142857&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=cccccc&count_private=true" height="165" alt="Top Langs" />
 </div>
